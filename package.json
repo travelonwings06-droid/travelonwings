@@ -1,0 +1,19 @@
+{
+  "name": "travel-on-wings",
+  "version": "1.0.0",
+  "description": "Travel On Wings website with Netlify Functions",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx netlify-cli dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^8.0.5"
+  },
+  "devDependencies": {
+    "netlify-cli": "^24.11.3"
+  }
+}
