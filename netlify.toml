@@ -1,2 +1,50 @@
 [build]
   functions = "netlify/functions"
+
+[[redirects]]
+  from = "/about.html"
+  to = "/about/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact.html"
+  to = "/contact/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services.html"
+  to = "/services/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/destinations.html"
+  to = "/destinations/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/destinations/dubai.html"
+  to = "/destinations/dubai/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/destinations/maldives.html"
+  to = "/destinations/maldives/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/destinations/bali.html"
+  to = "/destinations/bali/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/destinations/thailand.html"
+  to = "/destinations/thailand/"
+  status = 301
+  force = true

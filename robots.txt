@@ -1,9 +1,4 @@
 User-agent: *
 Allow: /
 
-# Disallow admin/backend paths if they exist
-Disallow: /admin/
-Disallow: /private/
-
-# Sitemaps
 Sitemap: https://travelonwings.com/sitemap.xml
